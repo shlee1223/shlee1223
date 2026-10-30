@@ -1,9 +1,9 @@
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#391](https://github.com/openwallet-foundation-labs/identity-common-ts/pull/391) in [openwallet-foundation-labs/identity-common-ts](https://github.com/openwallet-foundation-labs/identity-common-ts)
-2. 💪 Opened PR [#391](https://github.com/openwallet-foundation-labs/identity-common-ts/pull/391) in [openwallet-foundation-labs/identity-common-ts](https://github.com/openwallet-foundation-labs/identity-common-ts)
-3. 🎉 Merged PR [#4047](https://github.com/x402-foundation/x402/pull/4047) in [x402-foundation/x402](https://github.com/x402-foundation/x402)
-4. 💪 Opened PR [#819](https://github.com/openid/OpenID4VCI/pull/819) in [openid/OpenID4VCI](https://github.com/openid/OpenID4VCI)
-5. 💪 Opened PR [#3121](https://github.com/modelcontextprotocol/typescript-sdk/pull/3121) in [modelcontextprotocol/typescript-sdk](https://github.com/modelcontextprotocol/typescript-sdk)
+1. 💪 Opened PR [#54476](https://github.com/keycloak/keycloak/pull/54476) in [keycloak/keycloak](https://github.com/keycloak/keycloak)
+2. ℹ️ Labeled issue [#54475](https://github.com/keycloak/keycloak/issues/54475) in [keycloak/keycloak](https://github.com/keycloak/keycloak)
+3. ℹ️ Labeled issue [#54475](https://github.com/keycloak/keycloak/issues/54475) in [keycloak/keycloak](https://github.com/keycloak/keycloak)
+4. ❗ Opened issue [#54475](https://github.com/keycloak/keycloak/issues/54475) in [keycloak/keycloak](https://github.com/keycloak/keycloak)
+5. 💪 Opened PR [#1029](https://github.com/zitadel/oidc/pull/1029) in [zitadel/oidc](https://github.com/zitadel/oidc)
 <!--END_SECTION:activity-->
