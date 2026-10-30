@@ -1,9 +1,9 @@
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#4109](https://github.com/pac4j/pac4j/pull/4109) in [pac4j/pac4j](https://github.com/pac4j/pac4j)
-2. 💪 Opened PR [#997](https://github.com/oauthlib/oauthlib/pull/997) in [oauthlib/oauthlib](https://github.com/oauthlib/oauthlib)
-3. ❗ Opened issue [#996](https://github.com/oauthlib/oauthlib/issues/996) in [oauthlib/oauthlib](https://github.com/oauthlib/oauthlib)
-4. 💪 Opened PR [#54476](https://github.com/keycloak/keycloak/pull/54476) in [keycloak/keycloak](https://github.com/keycloak/keycloak)
-5. ℹ️ Labeled issue [#54475](https://github.com/keycloak/keycloak/issues/54475) in [keycloak/keycloak](https://github.com/keycloak/keycloak)
+1. 💪 Opened PR [#27390](https://github.com/goauthentik/authentik/pull/27390) in [goauthentik/authentik](https://github.com/goauthentik/authentik)
+2. 🎉 Merged PR [#1414](https://github.com/modelcontextprotocol/rust-sdk/pull/1414) in [modelcontextprotocol/rust-sdk](https://github.com/modelcontextprotocol/rust-sdk)
+3. 💪 Opened PR [#4067](https://github.com/x402-foundation/x402/pull/4067) in [x402-foundation/x402](https://github.com/x402-foundation/x402)
+4. 💪 Opened PR [#1980](https://github.com/doorkeeper-gem/doorkeeper/pull/1980) in [doorkeeper-gem/doorkeeper](https://github.com/doorkeeper-gem/doorkeeper)
+5. 💪 Opened PR [#434](https://github.com/spiffe/go-spiffe/pull/434) in [spiffe/go-spiffe](https://github.com/spiffe/go-spiffe)
 <!--END_SECTION:activity-->
